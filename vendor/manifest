@@ -166,10 +166,10 @@
 		},
 		{
 			"importpath": "github.com/go-kit/kit/tracing/opentracing",
-			"repository": "https://github.com/go-kit/kit",
+			"repository": "https://github.com/bpradipt/kit",
 			"vcs": "git",
-			"revision": "905b60253dbac4a14625ce52217ede00d3a3aca7",
-			"branch": "master",
+			"revision": "d618a8c502afbebc3c9bff6c49559dece894dee2",
+			"branch": "perfevents",
 			"path": "/tracing/opentracing",
 			"notests": true
 		},
